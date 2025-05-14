@@ -67,7 +67,7 @@ Tashkelah is a community-driven sports booking platform built as a final project
 | 2  | Admin approve organizer                                     | Taha    |
 | 3  | Reject organizer                                            | Taha    |
 | 4  | Block organizer                                             | Taha    |
-| 5  | Send approve notification With a logg to organizer          | Taha    |
+| 5  | Send approve notification With a logo to organizer          | Taha    |
 | 6  | Send reject notification to organizer                       | Taha    |
 | 7  | Send block notification to organizer                        | Taha    |
 | 10 | Add field                                                   | Taha    |
@@ -81,10 +81,6 @@ Tashkelah is a community-driven sports booking platform built as a final project
 | 20 | Show matches for a field (public + private)                 | Taha    |
 | 21 | Add teams for a public match                                | Taha    |
 
-![image](https://github.com/user-attachments/assets/de548e43-92d5-4027-9a52-ba22f225348a)
-![image](https://github.com/user-attachments/assets/2266e82f-4578-4e21-9cab-ef7780f7a679)
-![image](https://github.com/user-attachments/assets/9fe21e66-76e8-4935-b13f-b596f1de2457)
-https://documenter.getpostman.com/view/42844638/2sB2qUmPwG
-https://www.figma.com/design/3wzDvkE6kbXGBVgeGu4lnF/%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9?t=NHs8mJQeVTiIq1LU-0
+
 
 
